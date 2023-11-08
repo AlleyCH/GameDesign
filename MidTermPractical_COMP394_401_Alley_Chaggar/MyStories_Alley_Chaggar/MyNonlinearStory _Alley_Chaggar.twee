@@ -1,0 +1,55 @@
+:: StoryTitle
+MyNonlinearStory _Alley_Chaggar
+
+
+:: StoryData
+{
+  "ifid": "252D1F3F-A2A2-4962-866E-FB6DB7A57DD2",
+  "format": "Harlowe",
+  "format-version": "3.3.7",
+  "start": "Untitled Passage",
+  "zoom": 1
+}
+
+
+:: Go Deep {"position":"300,500","size":"100,100"}
+He ended up finding out about the houses dark history
+
+
+:: Leave {"position":"475,575","size":"100,100"}
+He left the house to find his friends waiting outside for him. To his surprise and relief he ran up to join them and leave this weird place behind. 
+
+
+:: Proceed {"position":"850,525","size":"100,100"}
+He decided to follow the music. He ended up leaerning the chilling secrets and history of the huanted house.
+
+
+:: Turn Back {"position":"700,600","size":"100,100"}
+John didn't want to go deep in fact he was really over this whole huanted house. He really just wanted to go home but his friends still couldn't be found. 
+
+[[Leave]]
+[[door 1]]
+[[door 2]]
+
+
+:: Untitled Passage {"position":"600,250","size":"100,100"}
+John and his friends all wanted to do something fun on the weekend of halloween. And so they choose to go to a huanted house. Somewhere in the middle of it he couldn't find his friends. He came  up to two doors
+
+John had to pick which way he wanted to go in the haunted house. 
+
+[[door 1]]
+[[door 2]]
+
+
+:: door 1 {"position":"500,375","size":"100,100"}
+He choose door number one. As he opened it he noticed how dark it was inside. He was on edge and contemplating whether to proceed or draw back. He was just wondering if his friends where there in the dark.
+
+[[Go Deep]]
+[[Turn Back]]
+
+
+:: door 2 {"position":"750,375","size":"100,100"}
+As he opened door 2 he noticed a big hallway and in the hallway he can hear music. Classical music he thinks to himself. 
+
+[[Proceed]]
+[[Turn Back]]

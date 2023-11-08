@@ -1,0 +1,28 @@
+:: StoryTitle
+MyLinearStory_Alley_Chaggar 
+
+
+:: StoryData
+{
+  "ifid": "3DD5030A-4E98-4C8C-B073-E5EEF229E2B3",
+  "format": "Harlowe",
+  "format-version": "3.3.7",
+  "start": "Untitled Passage",
+  "zoom": 1
+}
+
+
+:: Go Check {"position":"600,375","size":"100,100"}
+He goes to check what the sound was hoping it wasn't something dangerous.
+
+[[Kitchen]]
+
+
+:: Kitchen {"position":"600,500","size":"100,100"}
+As Eric was approaching the Kitchen but suddenly he started to hear growling. In an instant he grabed his base ball bat and leaped in th door way to find his dog there eating on the floor while the fridge was open. Eric signed a big sign of relieve and went to go help his dog.
+
+
+:: Untitled Passage {"position":"600,250","size":"100,100"}
+Eric wakes up in the midle of the night because he heard a big bang out side his room
+
+[[Go Check]]

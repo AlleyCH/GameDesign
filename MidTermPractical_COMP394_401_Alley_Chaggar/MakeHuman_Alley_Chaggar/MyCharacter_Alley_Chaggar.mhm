@@ -1,0 +1,24 @@
+# Written by MakeHuman 1.2.0 final
+version v1.2.0
+name MyCharacter_Alley_Chaggar
+camera 2.0 8.5 0.09006976274899146 0.45791075044383145 0.06322517005092942 0.7375
+modifier breast/BreastSize 0.500000
+modifier breast/BreastFirmness 0.500000
+modifier macrodetails/Gender 0.697000
+modifier macrodetails/Age 0.548000
+modifier macrodetails/African 0.333333
+modifier macrodetails/Asian 0.333333
+modifier macrodetails/Caucasian 0.333333
+modifier macrodetails-universal/Muscle 0.535000
+modifier macrodetails-universal/Weight 0.613000
+modifier macrodetails-height/Height 0.652000
+modifier macrodetails-proportions/BodyProportions 0.710000
+hair short03 a6cb8ad2-2e0d-4655-81ef-bfce1676ec67
+skeleton game_engine.mhskel
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothes male_casualsuit01 79ced554-1d8a-4c14-a6a8-e1de90b09c32
+clothesHideFaces True
+skinMaterial skins/default.mhmat
+material short03 a6cb8ad2-2e0d-4655-81ef-bfce1676ec67 short03.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
+subdivide False
